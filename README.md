@@ -1,2 +1,4 @@
 # Cortex65.github.io
-Web content
+
+This is the companion repo related to the content at https://listed.to/@Cortex65
+
